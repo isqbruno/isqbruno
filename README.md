@@ -60,6 +60,7 @@
 	<a href="https://www.linkedin.com/in/isaquebruno/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 	<a href="https://www.instagram.com/isaqbruno/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 	<a href="https://www.behance.net/isaqbruno" target="_blank"><img alt="Behance" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" /></a>
+	<a href="https://isaquebruno.netlify.app/#" target="_blank"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
 </p>
 
 
