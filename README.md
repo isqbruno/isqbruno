@@ -6,12 +6,10 @@
 <p> Atualmente, estou imerso no estudo aprofundado de ☕️ Java, 🐍 Pythonn, 💾 C, explorando as nuances dessas linguagens de programação. Em Java, concentro-me na robustez e na orientação a objetos, visando desenvolver aplicações escaláveis. No universo de C, a ênfase recai na eficiência e controle de baixo nível, explorando os fundamentos da programação. Essa jornada de aprendizado destaca-se pela diversidade e complexidade, impulsionando minha busca por expertise nesse trio de linguagens poderosas.
 </p>
 
-
-
 ------------
-![isqbruno GitHub stats](https://github-readme-stats.vercel.app/api?username=isqbruno&show_icons=true&theme=tokyonight)
 
-
+| <a href="https://github-readme-stats.vercel.app/api?username=isqbruno&show_icons=true&theme=tokyonight"><img align="center" src="https://github-readme-stats.vercel.app/api?username=isqbruno&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Isqbruno github stats" /></a> | <a href="https://github.com/isqbruno/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isqbruno&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 ------------
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
