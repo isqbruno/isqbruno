@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643514738/7421/typingcat.gif?1643514738" width="25"/>  Ei! É bom te ver por aqui.</h1>
 
 
-<p>Bem vindo a minha pagina! </br> 👨‍💻 Sou Estudante do curso Técnico de Informática no IFBA (Instituto Federal da Bahia), modalidade subsequente no período noturno. </p>
+<p>Bem vindo a minha pagina! </br> 👨‍💻 Sou Isaque Bruno estudante de Ciência da computação. </p>
 
 <p> Atualmente, estou imerso no estudo aprofundado de ☕️ Java, 🐍 Pythonn, 💾 C, explorando as nuances dessas linguagens de programação. Em Java, concentro-me na robustez e na orientação a objetos, visando desenvolver aplicações escaláveis. No universo de C, a ênfase recai na eficiência e controle de baixo nível, explorando os fundamentos da programação. Essa jornada de aprendizado destaca-se pela diversidade e complexidade, impulsionando minha busca por expertise nesse trio de linguagens poderosas.
 </p>
