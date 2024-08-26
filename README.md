@@ -19,7 +19,7 @@
 	<img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 	
 </p>
-<h3>🚀 Frameworks / 🏛 Library  / ⚡ Database / 💻 Terminal /</h3>
+<h3>🏛 Library  / ⚡ Database / 💻 Terminal /</h3>
 <p>
 	<img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 	<img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
