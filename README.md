@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643514738/7421/typingcat.gif?1643514738" width="25"/>  Ei! É bom te ver por aqui.</h1>
 
 
-<p>Bem vindo a minha pagina! </br> 👨‍💻 Sou Isaque Bruno estudante de Ciência da computação. </p>
+<p>Bem vindo a minha pagina! </br> 👨‍💻 Sou Isaque Bruno estudo Ciência da Computação no Centro Universitário Gran de São Paulo. </p>
 
 <p> Estou aprofundando meus conhecimentos nas linguagens de programação Java, Python e C, explorando as características técnicas de cada uma. Em Java, foco na robustez da linguagem e em seus recursos de orientação a objetos, com o objetivo de desenvolver aplicações escaláveis e de alta performance. No caso de Python, dedico-me à sua versatilidade e simplicidade, aproveitando sua capacidade para automação, análise de dados e desenvolvimento web. Já em C, minha atenção está voltada para a eficiência e o controle de baixo nível, explorando os fundamentos da programação e a gestão direta de recursos de hardware. Essa abordagem diversificada me permite adquirir uma expertise abrangente nessas linguagens, cada uma com suas aplicações específicas e desafios.
 </p>
