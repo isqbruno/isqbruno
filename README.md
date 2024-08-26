@@ -1,5 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514738/7421/typingcat.gif?1643514738" width="25"/>  Ei! É bom te ver por aqui.</h1>
-
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514738/7421/typingcat.gif?1643514738" width="25"/> Hey! It's good to see you here.</h1>
 
 <p>Bem vindo a minha pagina! </br> 👨‍💻 I'm Isaque Bruno, and I study Computer Science at Centro Universitário Gran in São Paulo.</p>
 
