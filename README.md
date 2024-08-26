@@ -3,7 +3,7 @@
 
 <p>Bem vindo a minha pagina! </br> 👨‍💻 Sou Isaque Bruno estudante de Ciência da computação. </p>
 
-<p> Atualmente, estou imerso no estudo aprofundado de ☕️ Java, 🐍 Pythonn, 💾 C, explorando as nuances dessas linguagens de programação. Em Java, concentro-me na robustez e na orientação a objetos, visando desenvolver aplicações escaláveis. No universo de C, a ênfase recai na eficiência e controle de baixo nível, explorando os fundamentos da programação. Essa jornada de aprendizado destaca-se pela diversidade e complexidade, impulsionando minha busca por expertise nesse trio de linguagens poderosas.
+<p> Estou aprofundando meus conhecimentos nas linguagens de programação Java, Python e C, explorando as características técnicas de cada uma. Em Java, foco na robustez da linguagem e em seus recursos de orientação a objetos, com o objetivo de desenvolver aplicações escaláveis e de alta performance. No caso de Python, dedico-me à sua versatilidade e simplicidade, aproveitando sua capacidade para automação, análise de dados e desenvolvimento web. Já em C, minha atenção está voltada para a eficiência e o controle de baixo nível, explorando os fundamentos da programação e a gestão direta de recursos de hardware. Essa abordagem diversificada me permite adquirir uma expertise abrangente nessas linguagens, cada uma com suas aplicações específicas e desafios.
 </p>
 
 ------------
@@ -21,17 +21,16 @@
 	<img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 	
 </p>
-<h3>🏛 Bibliotecas/ ⚡️ Database /💻 Terminal</h3>
+<h3>🚀 Frameworks / 🏛 Library  / ⚡ Database / 💻 Terminal /</h3>
 <p>
 	<img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 	<img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
 	<img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 	<img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" /> 
 	<img alt="Hyper" src="https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white" />
-
-	
+	<img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-<h3>🛠 Ferramentas /👨‍💻 IDE</h3>
+<h3>👨‍💻 IDE</h3>
 <p>
 	<img alt="VSCode" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 	<img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
@@ -41,7 +40,6 @@
 	<img alt="MacOs" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
 	<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 	<img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-	
 </p>
 
  
