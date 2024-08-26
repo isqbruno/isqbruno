@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643514738/7421/typingcat.gif?1643514738" width="25"/> Hey! It's good to see you here.</h1>
 
-<p>Bem vindo a minha pagina! </br> 👨‍💻 I'm Isaque Bruno, and I study Computer Science at Centro Universitário Gran in São Paulo.</p>
+<p>Welcome to my page! </br> 👨‍💻 I'm Isaque Bruno, and I study Computer Science at Centro Universitário Gran in São Paulo.</p>
 
 <p> I am deepening my knowledge in the programming languages Java, Python, and C, exploring the technical characteristics of each. In Java, I focus on the language's robustness and object-oriented features, aiming to develop scalable and high-performance applications. For Python, I dedicate myself to its versatility and simplicity, leveraging its capabilities for automation, data analysis, and web development. In C, my attention is directed towards efficiency and low-level control, exploring the fundamentals of programming and direct hardware resource management. This diversified approach allows me to gain comprehensive expertise in these languages, each with its specific applications and challenges.</p>
 
