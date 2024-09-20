@@ -6,7 +6,8 @@
 
 ------------
 
-| <a href="https://github-readme-stats.vercel.app/api?username=isqbruno&show_icons=true&theme=tokyonight"><img align="center" src="https://github-readme-stats.vercel.app/api?username=isqbruno&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Isqbruno github stats" /></a> | <a href="https://github.com/isqbruno/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isqbruno&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github-readme-stats.vercel.app/api?username=isqbruno&show_icons=true&theme=tokyonight"><img align="center" src="https://github-readme-stats.vercel.app/api?username=isqbruno&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Isqbruno github stats" /></a> | 
+<a href="https://github.com/isqbruno/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isqbruno&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ------------
