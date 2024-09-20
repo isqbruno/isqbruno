@@ -5,14 +5,11 @@
 <p> I am deepening my knowledge in the programming languages Java, Python, and C, exploring the technical characteristics of each. In Java, I focus on the language's robustness and object-oriented features, aiming to develop scalable and high-performance applications. For Python, I dedicate myself to its versatility and simplicity, leveraging its capabilities for automation, data analysis, and web development. In C, my attention is directed towards efficiency and low-level control, exploring the fundamentals of programming and direct hardware resource management. This diversified approach allows me to gain comprehensive expertise in these languages, each with its specific applications and challenges.</p>
 
 ------------
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MatheusAlvarez&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
 
-<a href="https://github.com/isqbruno/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isqbruno&layout=compact&theme=buefy&hide_border=true" />
-</a> 
-
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=isqbruno&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Isaque Bruno github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isqbruno&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
 ------------
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
