@@ -5,9 +5,13 @@
 <p> I am deepening my knowledge in the programming languages Java, Python, and C, exploring the technical characteristics of each. In Java, I focus on the language's robustness and object-oriented features, aiming to develop scalable and high-performance applications. For Python, I dedicate myself to its versatility and simplicity, leveraging its capabilities for automation, data analysis, and web development. In C, my attention is directed towards efficiency and low-level control, exploring the fundamentals of programming and direct hardware resource management. This diversified approach allows me to gain comprehensive expertise in these languages, each with its specific applications and challenges.</p>
 
 ------------
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MatheusAlvarez&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
-<a href="https://github-readme-stats.vercel.app/api?username=isqbruno&show_icons=true&theme=tokyonight"><img align="center" src="https://github-readme-stats.vercel.app/api?username=isqbruno&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Isqbruno github stats" /></a> 
-<a href="https://github.com/isqbruno/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isqbruno&layout=compact&theme=buefy&hide_border=true" /></a> 
+<a href="https://github.com/isqbruno/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isqbruno&layout=compact&theme=buefy&hide_border=true" />
+</a> 
 
 
 ------------
