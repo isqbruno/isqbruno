@@ -6,12 +6,6 @@
 
 ------------
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=isqbruno&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Isaque Bruno github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isqbruno&layout=compact&hide_border=true&theme=tokyonight" />
-</div>
-
-------------
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <h3>💻 Technologies</h3>
@@ -40,6 +34,12 @@
 	<img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
+ ------------
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=isqbruno&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Isaque Bruno github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isqbruno&layout=compact&hide_border=true&theme=tokyonight" />
+</div>
  
 ------------
 <h3>Where can you find me?</h3>
