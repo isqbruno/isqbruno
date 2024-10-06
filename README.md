@@ -12,7 +12,7 @@
 <p align="center">
 	<b>🎓 Computer Science student at Gran University Center in São Paulo.</b><br>
 	<b>📚 Currently studying: ☕️ Java and 🍃 Spring</b><br>
-	<b>💻 Technologies I’m using: HTML, CSS, JavaScript, Bootstrap, Java, Spring</b><br>
+	<b>💻 Technologies I’m using: HTML, CSS, JavaScript, Bootstrap</b><br>
 	<b>🌱 Continuously learning and passionate about programming challenges</b>
 </p>
 <p align="center">
