@@ -12,30 +12,31 @@
 <p align="center">
 	<b>🎓 Computer Science student at Gran University Center in São Paulo.</b><br>
 	<b>📚 Currently studying: ☕️ Java and 🍃 Spring</b><br>
-	<b>💻 Technologies I’m using: HTML, CSS, JavaScript, Bootstrap, MySql, Git</b><br>
-	<b>🌱 Continuously learning and passionate about programming challenges</b>
 </p>
 <p align="center">
 	<b>I have a curious, analytical, and methodical mindset. I am passionate about researching and learning, especially in areas such as cybersecurity, cryptography, and software development, along with the methods behind these processes. I also enjoy putting into practice what I have been studying, always striving to improve and apply my knowledge in real-world scenarios.
 	</b>
 </p>
 <!-- Skills -->
-<p align="center">
-	<img align="center" alt="Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-	<img align="center" alt="Spring" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
-	<img align="center" alt="MySql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-	<img align="center" alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-	<img align="center" alt="HTML5" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-	<img align="center" alt="CSS3" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-	<img align="center" alt="JavaScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-	<img align="center" alt="bootstrap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
-	<img align="center" alt="obsidian" height="50" width="60" src="https://skillicons.dev/icons?i=obsidian">
-	<img align="center" alt="Apple" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg">
-	<img align="center" alt="Ubuntu" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg">
-	<img align="center" alt="Windows" height="50" width="60" src="https://skillicons.dev/icons?i=windows">
-</p>
 
-------------
+<p align="center">
+	<a href="https://skillicons.dev">
+		<img src="https://skillicons.dev/icons?i=java,spring,vue,mysql,git,eclipse,vscode,obsidian,apple,linux" />
+	</a>
+</p>
+<br>
+<p align="center">
+	Other Technologies
+</p>
+<p align="center">
+	<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+	<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+	<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+<br>
+
 <!-- Random Dev Quote -->
 <div align="center">
 	<img alt="Dev Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" style="max-width: 100%; width: 560px;">
@@ -44,9 +45,9 @@
  ------------
 <!-- GitHub Stats -->
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=isqbruno&show_icons=true&theme=dracula" width="50%" alt="GitHub Stats">
+	<img src="https://github-readme-stats.vercel.app/api?username=isqbruno&show_icons=true&theme=dracula" width="45%" alt="GitHub Stats">
 <!-- Most Used Languages -->
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isqbruno&layout=compact&theme=dracula" width="38%" alt="Most Used Languages">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isqbruno&layout=compact&theme=dracula" width="40%" alt="Most Used Languages">
 </p>
 
 <!-- Trophy Gallery -->
