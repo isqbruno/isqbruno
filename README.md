@@ -4,7 +4,7 @@
 	<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=615493&section=header&reversal=true"/>
 <!-- Typing SVG and Introduction -->
   <a href="https://git.io/typing-svg">
-	<img src="https://readme-typing-svg.herokuapp.com?font=Hind&weight=500&size=30&duration=4000&pause=2000&color=a797dc&background=282A36&center=true&vCenter=true&random=false&width=560&height=59&lines=Ol%C3%A1!+Seja+bem-vindo(a)+ao+meu+GitHub+%F0%9F%91%8B" alt="Typing SVG">
+	<img src="https://readme-typing-svg.herokuapp.com?font=Hind&weight=500&size=30&duration=4000&pause=2000&color=a797dc&center=true&vCenter=true&random=false&width=560&height=59&lines=Hello!+Welcome+to+my+GitHub.+%F0%9F%91%8B" alt="Typing SVG">
   </a>
 </p>
 
@@ -17,17 +17,15 @@
 	<b>I have a curious, analytical, and methodical mindset. I am passionate about researching and learning, especially in areas such as cybersecurity, cryptography, and software development, along with the methods behind these processes. I also enjoy putting into practice what I have been studying, always striving to improve and apply my knowledge in real-world scenarios.
 	</b>
 </p>
+<br>
+<h2 align="center">Technologies</h2>
 <!-- Skills -->
-
 <p align="center">
 	<a href="https://skillicons.dev">
 		<img src="https://skillicons.dev/icons?i=java,spring,vue,mysql,git,eclipse,vscode,obsidian,apple,linux" />
 	</a>
 </p>
-<br>
-<p align="center">
-	Other Technologies
-</p>
+<h2 align="center">Other Technologies</h2>
 <p align="center">
 	<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -35,14 +33,15 @@
 	<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 	<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
-<br>
+
+---------------
 
 <!-- Random Dev Quote -->
 <div align="center">
 	<img alt="Dev Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" style="max-width: 100%; width: 560px;">
 </div>
 
- ------------
+ --------------
 <!-- GitHub Stats -->
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=isqbruno&show_icons=true&theme=dracula" width="45%" alt="GitHub Stats">
