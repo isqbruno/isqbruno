@@ -22,7 +22,7 @@
 <!-- Skills -->
 <p align="center">
 	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=java,spring,angular,vue,mysql,git,eclipse,vscode,idea,obsidian,apple,linux" />
+		<img src="https://skillicons.dev/icons?i=java,spring,angular,mysql,git,eclipse,vscode,idea,obsidian,apple,linux" />
 	</a>
 </p>
 <h2 align="center">Other Technologies</h2>
